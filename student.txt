@@ -1,0 +1,5 @@
+Students and their paid tuition fees
+Student: Bill, Paid fees: 1800,00$
+Student: Jenny, Paid fees: 2500,00$
+Student: Linda, Paid fees: 1000,00$
+Student: Maria, Paid fees: 4500,00$
