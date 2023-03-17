@@ -10,6 +10,8 @@ The service layer contains the business logic of the application.
 
 In the test package, the `SchoolTest` class contains the execution and testing of all the functionalities made possible by classes in the above layers.
 
+The `student.txt` contains the output after the execution of the test class.
+
 ## Technologies uses
 
 - Spring Boot
